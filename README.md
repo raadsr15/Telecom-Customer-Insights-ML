@@ -1,6 +1,7 @@
 
 ![Flux_Dev_Futuristic_data_analytics_background_for_a_telecom_ch_2](https://github.com/user-attachments/assets/54b8a270-842c-4e27-a009-91326db7b35d)
 
+#Telecom Customer Retention Analysis using Exploratory Data Analysis and Machine Learning
 
 ## Overview
 
