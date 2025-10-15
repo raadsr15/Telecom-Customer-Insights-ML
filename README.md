@@ -68,7 +68,7 @@ This section analyzes how **gender influences customer churn and service usage p
 - Distribution of services among male and female customers  
 - Gender-wise differences in churn, contract types, and payment methods  
 
-*-Gender wise there was not much difference in consumer behavior*  
+*-Gender wise there was not very significant difference in consumer behavior*  
 
 <img width="1589" height="2990" alt="download (1)" src="https://github.com/user-attachments/assets/8e2d3fca-d551-4256-81dd-42d72cb330b4" />
 
