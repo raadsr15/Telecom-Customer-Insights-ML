@@ -12,3 +12,12 @@ The analysis covers:
 - Identifying the **most important features** that drive churn decisions.  
 
 The goal is to provide actionable insights and a robust predictive model to help telecom companies **reduce churn and improve customer retention**.
+
+
+<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/0c88622d-467b-4aff-92c0-ef766513de15" />
+
+
+<img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/3d713681-72e7-475e-b464-cd79962fdb3c" />
+
+
+<img width="1920" height="1080" alt="5" src="https://github.com/user-attachments/assets/0c6bf971-cfa6-420e-89f3-ce721b2d88d6" />
