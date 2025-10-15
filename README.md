@@ -25,6 +25,18 @@ The analysis covers:
 
 The goal is to provide actionable insights and a robust predictive model to help telecom companies **reduce churn and improve customer retention**.
 
+## Dataset
+
+This project uses a public telecom customer churn dataset, which contains **two CSV tables**:
+
+- **Customer Churn Table:** Information on 7,043 California telecom customers in Q2 2022, including demographics, location, tenure, subscription services, and churn status.  
+- **Zip Code Population Table:** Estimated populations for the California zip codes in the Customer Churn table.  
+
+The dataset is publicly available on **Maven Analytics**:  
+[Telecom Customer Churn Dataset – Maven Analytics](https://www.mavenanalytics.io/blog/maven-churn-challenge)  
+
+The goal of this project is to perform **exploratory data analysis** and document insights that can guide **BI reports** (Power BI, Tableau, etc.).
+
 
 ## Exploratory Data Analysis (EDA)
 
