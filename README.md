@@ -57,7 +57,8 @@ This section examines the impact of **marital status** on churn and service adop
 
 *Insert your marital status insights here.*  
 
-*Insert relevant images/plots here.*
+<img width="1589" height="2990" alt="download" src="https://github.com/user-attachments/assets/7a8aad67-3b13-4d4e-a1fd-d42f0edfd925" />
+
 
 ---
 
@@ -69,7 +70,8 @@ This section focuses on **geographical patterns** by analyzing the top 20 cities
 
 *Insert your city-based insights here.*  
 
-*Insert relevant images/plots here.*
+<img width="1785" height="3490" alt="download (4)" src="https://github.com/user-attachments/assets/e9ff6944-d041-4fc2-ac67-b8081232e652" />
+
 
 ---
 
@@ -81,4 +83,5 @@ This section explores how **age impacts churn and service adoption**, focusing o
 
 *Insert your age-based insights here.*  
 
-*Insert relevant images/plots here.*
+<img width="1788" height="3490" alt="download (3)" src="https://github.com/user-attachments/assets/5d6bb479-a3cf-4d55-a7fe-b242992744dd" />
+
