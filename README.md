@@ -177,7 +177,14 @@ The confusion matrix for each model is visualized below:
 
 For tree-based models (Random Forest, Gradient Boost, Extra Trees, AdaBoost, XGBoost, LightGBM), the **top 20 most important features** were identified to understand the key drivers of churn.  
 
-*Insert bar plots of feature importance here for each tree-based model.*  
+<img width="1149" height="547" alt="rf" src="https://github.com/user-attachments/assets/2316eaf5-e74b-48ae-9d5e-698be5a8407e" />
+<img width="1223" height="547" alt="gb" src="https://github.com/user-attachments/assets/81a55de2-4cb0-4add-af8a-1771849c79f9" />
+<img width="1149" height="547" alt="et" src="https://github.com/user-attachments/assets/4d262486-e62b-4a76-b8b9-76e952c644e2" />
+<img width="1083" height="547" alt="dt" src="https://github.com/user-attachments/assets/8ab894b9-bd1a-4ee7-bf27-d7d445b48260" />
+<img width="1110" height="547" alt="adb" src="https://github.com/user-attachments/assets/4b432bb4-e3a2-4233-86cd-aa369046f07a" />
+<img width="1149" height="547" alt="xgb" src="https://github.com/user-attachments/assets/f1038232-2d38-45cb-bf27-9026e6dc4ef4" />
+<img width="1223" height="547" alt="lbgb" src="https://github.com/user-attachments/assets/e12e8e76-8734-433c-a9e5-ce802f3b0510" />
+
 
 These insights help highlight which customer attributes and services most strongly influence churn behavior.
 
