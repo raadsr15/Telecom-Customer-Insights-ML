@@ -82,8 +82,7 @@ This section analyzes how **gender influences customer churn and service usage p
 ### 3. Effect by Marital Status
 
 This section examines the impact of **marital status** on churn and service adoption:  
-- Service subscriptions by marital status  
-- Differences in contract types, payment methods, and churn behavior among married vs. unmarried customers  
+ 
 
 - **Multiple Lines:** Married customers are more likely to have multiple lines compared to non-married customers.  
 - **Online Security:** Married customers tend to subscribe to online security services slightly more than non-married customers, with a relatively small difference in adoption rates.  
