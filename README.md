@@ -89,3 +89,82 @@ This section explores how **age impacts churn and service adoption**, focusing o
 
 <img width="1788" height="3490" alt="download (3)" src="https://github.com/user-attachments/assets/5d6bb479-a3cf-4d55-a7fe-b242992744dd" />
 
+
+
+## Machine Learning Models
+
+This section presents the predictive modeling results for **telecom churn**. Multiple machine learning algorithms were evaluated to identify the best-performing model.
+
+### 1. Models Used
+
+The following models were trained and evaluated:  
+
+- **Random Forest Classifier**  
+- **K-Nearest Neighbors (KNN)**  
+- **Gradient Boosting Classifier**  
+- **Extra Trees Classifier**  
+- **Decision Tree Classifier**  
+- **AdaBoost Classifier**  
+- **XGBoost Classifier**  
+- **LightGBM Classifier**
+
+### 2. Evaluation Metrics
+
+Models were evaluated using:  
+- **Accuracy** on the test set  
+- **10-fold cross-validation accuracy**  
+- **Confusion matrix**  
+- **Classification report** (Precision, Recall, F1-score)  
+- **Feature importance** (for tree-based models)
+
+### 3. Model Performance Summary
+
+| Model             | Test Accuracy | Cross-Val Accuracy | Std Dev | Notes |
+|------------------|---------------|-----------------|---------|-------|
+| Random Forest     | 99.79%        | 99.79%          | 0.17%   | Excellent performance, very few misclassifications |
+| KNN               | 72.18%        | 71.16%          | 1.59%   | Lower performance, struggled with minority class |
+| Gradient Boost    | 100.00%       | 100.00%         | 0.00%   | Perfect accuracy on this dataset |
+| Extra Trees       | 96.95%        | 97.60%          | 0.81%   | Slightly lower recall for minority class |
+| Decision Tree     | 100.00%       | 100.00%         | 0.00%   | Perfect accuracy |
+| AdaBoost          | 100.00%       | 100.00%         | 0.00%   | Perfect accuracy |
+| XGBoost           | 100.00%       | 100.00%         | 0.00%   | Perfect accuracy |
+| LightGBM          | 100.00%       | 100.00%         | 0.00%   | Perfect accuracy |
+
+> **Note:** Test Accuracy and Cross-Validation Accuracy are nearly identical, indicating consistent model performance.
+
+---
+
+### 4. Confusion Matrices
+
+The confusion matrix for each model is visualized below:  
+
+*Insert confusion matrix plots for each model here.*  
+
+- **Random Forest:** *Insert image*  
+- **KNN:** *Insert image*  
+- **Gradient Boost:** *Insert image*  
+- **Extra Trees:** *Insert image*  
+- **Decision Tree:** *Insert image*  
+- **AdaBoost:** *Insert image*  
+- **XGBoost:** *Insert image*  
+- **LightGBM:** *Insert image*  
+
+---
+
+### 5. Feature Importance
+
+For tree-based models (Random Forest, Gradient Boost, Extra Trees, AdaBoost, XGBoost, LightGBM), the **top 20 most important features** were identified to understand the key drivers of churn.  
+
+*Insert bar plots of feature importance here for each tree-based model.*  
+
+These insights help highlight which customer attributes and services most strongly influence churn behavior.
+
+---
+
+### 6. Key Takeaways
+
+- **Gradient Boost, Decision Tree, AdaBoost, XGBoost, and LightGBM** achieved perfect accuracy on this dataset.  
+- **Random Forest and Extra Trees** also performed extremely well, with minor misclassifications in minority classes.  
+- **KNN** struggled to classify minority classes effectively, indicating that distance-based methods may be less suitable for this dataset.  
+- Feature importance analysis provides actionable insights for **customer retention strategies**.
+
