@@ -44,7 +44,8 @@ This section analyzes how **gender influences customer churn and service usage p
 
 *Insert your gender-based insights here.*  
 
-*Insert relevant images/plots here.*
+<img width="1589" height="2990" alt="download (1)" src="https://github.com/user-attachments/assets/8e2d3fca-d551-4256-81dd-42d72cb330b4" />
+
 
 ---
 
