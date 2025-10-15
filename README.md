@@ -46,11 +46,8 @@ In this section, we explore the telecom customer dataset to uncover patterns and
 
 ### 1. Overall Features
 
-This section covers **general distributions** of categorical and numerical features, including:  
-- Gender, marital status, city, zip code  
-- Age distribution  
-- Payment methods, contract types, and offers  
-- Service usage (phone, internet, streaming, tech support, etc.)  
+This section covers **general distributions** of categorical and numerical features:  
+
 
 - **Offers:** Offer E and Offer B were the most popular among customers.  
 - **Gender Distribution:** Male and female customer counts were nearly equal.  
