@@ -14,7 +14,7 @@ The analysis covers:
 The goal is to provide actionable insights and a robust predictive model to help telecom companies **reduce churn and improve customer retention**.
 
 
-<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/0c88622d-467b-4aff-92c0-ef766513de15" />
+<img width="1920" height="1080" alt="Blue Modern Visual Data   Chart Presentation " src="https://github.com/user-attachments/assets/163402ef-5e8f-430b-9a27-c8d65ec2e50e" />
 
 
 <img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/3d713681-72e7-475e-b464-cd79962fdb3c" />
