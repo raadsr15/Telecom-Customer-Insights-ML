@@ -85,7 +85,12 @@ This section examines the impact of **marital status** on churn and service adop
 - Service subscriptions by marital status  
 - Differences in contract types, payment methods, and churn behavior among married vs. unmarried customers  
 
-*Insert your marital status insights here.*  
+- **Multiple Lines:** Married customers are more likely to have multiple lines compared to non-married customers.  
+- **Online Security:** Married customers tend to subscribe to online security services slightly more than non-married customers, with a relatively small difference in adoption rates.  
+- **Online Backup:** Non-married customers are less likely to use online backup, while married customers show higher adoption of this service.  
+- **Streaming TV:** Married customers are more engaged with streaming TV services compared to non-married customers, who show lower usage.  
+- **Streaming Movies:** Subscription to streaming movies is higher among married customers, while non-married customers have lower participation.  
+- **Streaming Music:** Married customers show higher usage of streaming music services, whereas non-married customers are less likely to use them.   
 
 <img width="1589" height="2990" alt="download" src="https://github.com/user-attachments/assets/7a8aad67-3b13-4d4e-a1fd-d42f0edfd925" />
 
