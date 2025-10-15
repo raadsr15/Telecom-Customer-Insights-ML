@@ -1,7 +1,14 @@
 
 ![Flux_Dev_Futuristic_data_analytics_background_for_a_telecom_ch_2](https://github.com/user-attachments/assets/54b8a270-842c-4e27-a009-91326db7b35d)
 
-#Telecom Customer Retention Analysis using Exploratory Data Analysis and Machine Learning
+# Telecom Customer Retention Analysis using Exploratory Data Analysis and Machine Learning
+Customer churn is one of the most critical challenges faced by telecom companies, as losing subscribers can significantly impact revenue and long-term growth. This project focuses on analyzing and predicting telecom customer churn using a combination of exploratory data analysis (EDA) and machine learning techniques. The dataset contains comprehensive information on customer demographics, service usage, contracts, payment methods, and churn status, providing an opportunity to uncover meaningful patterns and insights.
+
+The project begins with exploratory data analysis, visualizing overall distributions, as well as the effects of gender, marital status, top cities, and age on churn and service adoption. Missing values are carefully handled through median imputation for numerical columns and strategic replacement for categorical features, ensuring a clean dataset for modeling. Categorical variables are encoded using one-hot encoding, while numerical features are scaled using StandardScaler and MinMaxScaler to improve model performance.
+
+Multiple machine learning models were trained and evaluated, including Random Forest, Gradient Boosting, Extra Trees, AdaBoost, Decision Tree, K-Nearest Neighbors, XGBoost, and LightGBM. Models were assessed using accuracy, cross-validation, confusion matrices, and classification reports, with tree-based ensemble models achieving near-perfect performance. Feature importance analysis revealed the key drivers of churn, such as contract type, service usage, and demographic factors, providing actionable insights for retention strategies.
+
+Overall, this project demonstrates a comprehensive end-to-end approach to telecom churn prediction, from data exploration and preprocessing to predictive modeling and feature interpretation. It serves as both a practical tool for telecom companies and a case study in applying machine learning techniques to real-world customer data.
 
 ## Overview
 
