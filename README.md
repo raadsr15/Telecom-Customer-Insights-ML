@@ -1,3 +1,6 @@
+
+![Uploading Flux_Dev_Futuristic_data_analytics_background_for_a_telecom_ch_2.jpg…]()
+
 ## Overview
 
 Telecom companies face significant challenges in retaining customers due to high churn rates. This project aims to **analyze telecom customer churn** using **exploratory data analysis (EDA)** and **machine learning models** to predict which customers are likely to churn.  
