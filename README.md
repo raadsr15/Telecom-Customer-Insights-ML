@@ -71,6 +71,8 @@ This section focuses on **geographical patterns** by analyzing the top 20 cities
 *Insert your city-based insights here.*  
 
 <img width="1785" height="3490" alt="download (4)" src="https://github.com/user-attachments/assets/e9ff6944-d041-4fc2-ac67-b8081232e652" />
+<img width="1785" height="2090" alt="download (6)" src="https://github.com/user-attachments/assets/9a40d2d8-1d66-4e1c-a889-b5d36ae84d04" />
+
 
 
 ---
