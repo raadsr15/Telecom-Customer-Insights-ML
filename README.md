@@ -52,7 +52,14 @@ This section covers **general distributions** of categorical and numerical featu
 - Payment methods, contract types, and offers  
 - Service usage (phone, internet, streaming, tech support, etc.)  
 
-*Insert your overall insights here.*  
+- **Offers:** Offer E and Offer B were the most popular among customers.  
+- **Gender Distribution:** Male and female customer counts were nearly equal.  
+- **Top Cities by Customer Count:** Los Angeles and San Diego had the highest number of customers.  
+- **Internet Type Usage:** Fiber Optic was the most commonly used internet type.  
+- **Main Churn Category:** Competitor-related reasons dominated customer churn.  
+- **Churn Reason Insights:** Customers cited better devices and superior offers from competitors as the main reasons for leaving.  
+- **Cities with Mode Age < 35:** Econatic, Long Beach, Mexico, Mexicana, Venezuela, San Jose, Sexton, Temecula.  
+- **Cities with Mode Age > 35:** BatchGrid, Berkeley, Fallbrook, Plano, Gabriela, Los Angeles, Calidad, Sacramento, San Diego, San Francisco.    
 
 <img width="1920" height="1080" alt="Blue Modern Visual Data   Chart Presentation " src="https://github.com/user-attachments/assets/163402ef-5e8f-430b-9a27-c8d65ec2e50e" />
 <img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/3d713681-72e7-475e-b464-cd79962fdb3c" />
