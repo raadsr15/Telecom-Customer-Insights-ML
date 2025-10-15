@@ -140,22 +140,29 @@ The confusion matrix for each model is visualized below:
 
 
 
-- **Random Forest:**
- <img width="528" height="393" alt="rf" src="https://github.com/user-attachments/assets/d41e5c36-7b96-43c5-9ae6-b83b346faed9" />
-- **KNN:**
- <img width="528" height="393" alt="knn" src="https://github.com/user-attachments/assets/f4cbc569-35e8-405c-9bee-49afc63c47b9" /> 
-- **Gradient Boost:**
- <img width="528" height="393" alt="gb" src="https://github.com/user-attachments/assets/0bb587c9-925f-43cf-9135-e42668706260" />
-- **Extra Trees:**
-  <img width="528" height="393" alt="et" src="https://github.com/user-attachments/assets/fb1eb138-a2ab-462f-8fbb-f75c5555582f" />
-- **Decision Tree:**
-   <img width="528" height="393" alt="dt" src="https://github.com/user-attachments/assets/514f2566-af9d-46f4-a7e9-3e3c93f5eee6" />
-- **AdaBoost:**
-  <img width="528" height="393" alt="ab" src="https://github.com/user-attachments/assets/f9e48ae0-2fc3-428d-8fa4-4b93765ba20e" />
-- **XGBoost:**
-  <img width="528" height="393" alt="xgb" src="https://github.com/user-attachments/assets/16bb4180-eb1a-40bf-b0bb-38a58ef3a6a9" />
-- **LightGBM:**
-  <img width="528" height="393" alt="lbgb" src="https://github.com/user-attachments/assets/3972a940-00f3-4e9b-a388-ad61cf2eca1d" />
+- **Random Forest**  
+  ![Random Forest](https://github.com/user-attachments/assets/d41e5c36-7b96-43c5-9ae6-b83b346faed9)  
+
+- **KNN**  
+  ![KNN](https://github.com/user-attachments/assets/f4cbc569-35e8-405c-9bee-49afc63c47b9)  
+
+- **Gradient Boost**  
+  ![Gradient Boost](https://github.com/user-attachments/assets/0bb587c9-925f-43cf-9135-e42668706260)  
+
+- **Extra Trees**  
+  ![Extra Trees](https://github.com/user-attachments/assets/fb1eb138-a2ab-462f-8fbb-f75c5555582f)  
+
+- **Decision Tree**  
+  ![Decision Tree](https://github.com/user-attachments/assets/514f2566-af9d-46f4-a7e9-3e3c93f5eee6)  
+
+- **AdaBoost**  
+  ![AdaBoost](https://github.com/user-attachments/assets/f9e48ae0-2fc3-428d-8fa4-4b93765ba20e)  
+
+- **XGBoost**  
+  ![XGBoost](https://github.com/user-attachments/assets/16bb4180-eb1a-40bf-b0bb-38a58ef3a6a9)  
+
+- **LightGBM**  
+  ![LightGBM](https://github.com/user-attachments/assets/3972a940-00f3-4e9b-a388-ad61cf2eca1d)  
 
 
 
