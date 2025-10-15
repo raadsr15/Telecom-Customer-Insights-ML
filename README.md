@@ -140,8 +140,8 @@ The confusion matrix for each model is visualized below:
 
 
 
-- **Random Forest:**  <img width="528" height="393" alt="rf" src="https://github.com/user-attachments/assets/d41e5c36-7b96-43c5-9ae6-b83b346faed9" />
-
+- **Random Forest:**
+- <img width="528" height="393" alt="rf" src="https://github.com/user-attachments/assets/d41e5c36-7b96-43c5-9ae6-b83b346faed9" />
 - **KNN:**
 - <img width="528" height="393" alt="knn" src="https://github.com/user-attachments/assets/f4cbc569-35e8-405c-9bee-49afc63c47b9" /> 
 - **Gradient Boost:**
