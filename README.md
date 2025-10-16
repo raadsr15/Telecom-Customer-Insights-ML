@@ -127,10 +127,12 @@ This section focuses on **geographical patterns** by analyzing the top 20 cities
 ### 5. Effect by Age
 
 This section explores how **age impacts churn and service adoption**, focusing on the top 20 ages by customer count:  
-- Service usage patterns by age group  
-- Contract types, payment methods, and churn behavior by age  
 
-*Insert your age-based insights here.*  
+- **Multiple Lines:** Customers aged **66–80** show a stronger tendency to subscribe to multiple lines compared to other age groups.  
+- **Online Security:** Adoption of online security services is relatively lower among customers aged **65–80**.  
+- **Premium Tech Support:** Usage of premium tech support is also notably lower within the **65–80** age range.  
+- **Streaming Music:** Engagement with streaming music services is lower for the **65–80** group, while it peaks among customers aged **20–29**.  
+- **Paperless Billing:** Interestingly, customers aged **65–80** demonstrate a higher preference for paperless billing compared to younger users.  
 
 <img width="1788" height="3490" alt="download (3)" src="https://github.com/user-attachments/assets/5d6bb479-a3cf-4d55-a7fe-b242992744dd" />
 
