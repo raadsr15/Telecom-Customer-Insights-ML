@@ -102,7 +102,22 @@ This section focuses on **geographical patterns** by analyzing the top 20 cities
 - Gender, service usage, payment methods, and contract types in each city  
 - Offers adopted and churn distribution across cities  
 
-*Insert your city-based insights here.*  
+- **Online Security:** Cities like Sacramento, San Diego, Fallbrook, Modesto, and Temecula appear vulnerable as a majority of customers lack online security services.  
+- **Online Backup:** San Diego, Berkeley, Fallbrook, Modesto, Pasadena, and Stockton show significantly lower adoption of online backup compared to non-users.  
+- **Device Protection Plan:** San Diego, Anaheim, Fallbrook, Pasadena, Glendale, and Stockton have a considerably lower proportion of customers with device protection plans.  
+- **Premium Tech Support:** A strong lack of premium tech support is observed in San Diego, Anaheim, Bakersfield, Fallbrook, Modesto, Pasadena, Stockton, and Temecula.  
+- **Unlimited Data:** Across most regions, customers show a strong preference for unlimited data packages.  
+- **Paperless Billing:** San Diego, Bakersfield, Fallbrook, Modesto, and Temecula report higher adoption of paperless billing compared to traditional billing.  
+- **Payment Method Trends:** Bank withdrawal is the most common payment method overall, particularly dominant in San Diego, Temecula, Bakersfield, Fallbrook, Modesto, Pasadena, and Riverside.  
+- **Credit Card Usage:** Long Beach is the only city where credit card payments exceed bank withdrawals; in Long Beach and San Jose, both methods are nearly equal in popularity.  
+- **Internet Type:** Fiber optic connections are the most widely used across all cities, with Bakersfield being the only exception where DSL usage is nearly equal.  
+- **Offer Distribution:**  
+  - Offer E dominates in San Diego and Fallbrook.  
+  - Offer D in Los Angeles and San Jose.  
+  - Offer B in Whittier and Oakland.  
+  - Offer A in Riverside and Long Beach.  
+  - Offer C in Fresno.  
+- **Contract Type:** Month-to-month contracts are the most prevalent across all customer segments. 
 
 <img width="1785" height="3490" alt="download (4)" src="https://github.com/user-attachments/assets/e9ff6944-d041-4fc2-ac67-b8081232e652" />
 <img width="1785" height="2090" alt="download (6)" src="https://github.com/user-attachments/assets/9a40d2d8-1d66-4e1c-a889-b5d36ae84d04" />
