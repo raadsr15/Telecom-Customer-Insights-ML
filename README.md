@@ -98,9 +98,7 @@ This section examines the impact of **marital status** on churn and service adop
 
 ### 4. Effect by Top 20 Cities
 
-This section focuses on **geographical patterns** by analyzing the top 20 cities with the highest customer counts:  
-- Gender, service usage, payment methods, and contract types in each city  
-- Offers adopted and churn distribution across cities  
+This section focuses on **geographical patterns** by analyzing the top 20 cities with the highest customer counts:   
 
 - **Online Security:** Cities like Sacramento, San Diego, Fallbrook, Modesto, and Temecula appear vulnerable as a majority of customers lack online security services.  
 - **Online Backup:** San Diego, Berkeley, Fallbrook, Modesto, Pasadena, and Stockton show significantly lower adoption of online backup compared to non-users.  
